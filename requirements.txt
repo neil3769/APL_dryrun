@@ -1,0 +1,6 @@
+Flask>=3.0,<4
+marshmallow>=4.0,<5
+apispec>=6.10,<7
+apispec-webframeworks>=1.2,<2
+flask-swagger-ui>=4.11,<5
+PyYAML>=6.0,<7
